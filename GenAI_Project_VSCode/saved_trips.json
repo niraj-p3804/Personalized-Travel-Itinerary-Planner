@@ -1,0 +1,300 @@
+[
+  {
+    "id": "trip_1792913247",
+    "name": "Wanderlust Journey: New York City, USA",
+    "destination": "New York City, USA",
+    "duration_days": 5,
+    "budget_tier": "Moderate",
+    "total_cost_local": 313.5,
+    "total_cost_usd": 313.5,
+    "currency": "USD",
+    "notes": "",
+    "saved_at": "Oct 25, 2026 - 12:57 PM",
+    "itinerary": {
+      "trip_title": "Wanderlust Journey: New York City, USA",
+      "destination": "New York City, USA",
+      "duration_days": 5,
+      "currency": "USD",
+      "budget_tier": "Moderate",
+      "total_cost_usd": 313.5,
+      "total_cost_local": 313.5,
+      "days": [
+        {
+          "day_number": 1,
+          "date_label": "Day 1 • Midtown",
+          "cluster_name": "Midtown & Broadway",
+          "cluster_rationale": "All 4 attractions are situated within Midtown & Broadway. Walking radius is under 1.8 km, eliminating cross-city transit fatigue.",
+          "daily_transit_tip": "Pedestrian-friendly day! Use metro/tram to arrive in Midtown; thereafter all stops are walking distance.",
+          "lat": 40.6978,
+          "lng": -74.024,
+          "slots": [
+            {
+              "slot_type": "Morning Sightseeing",
+              "time": "09:00 - 12:30",
+              "title": "Explore Midtown & Street Food & Gastronomy",
+              "description": "Start the day at the iconic heart of Midtown & Broadway. Wander through peaceful morning streets, avoiding tourist rushes while soaking in times square, theatre district & top of the rock.",
+              "location": "Midtown Center",
+              "cost_usd": 12.0,
+              "cost_local": 12.0,
+              "transit_to_next": "5 to 8-minute scenic walk to lunch quarter"
+            },
+            {
+              "slot_type": "Lunch Recommendation",
+              "time": "12:30 - 14:00",
+              "title": "Artisanal Lunch in Broadway",
+              "description": "Relish authentic local flavors and seasonal specialties at a beloved neighborhood bistro renowned for farm-fresh ingredients and vibrant atmosphere.",
+              "location": "Broadway Food Alley",
+              "cost_usd": 14.7,
+              "cost_local": 14.7,
+              "transit_to_next": "Short 10-minute stroll across the plaza"
+            },
+            {
+              "slot_type": "Afternoon Leisure & Culture",
+              "time": "14:00 - 17:30",
+              "title": "Immersion: Times Square",
+              "description": "Curated afternoon visit clustered in the same district to prevent transit fatigue. Delve into curated collections, picturesque courtyards, and local artisan shops.",
+              "location": "Midtown & Broadway Cultural Pavilion",
+              "cost_usd": 10.7,
+              "cost_local": 10.7,
+              "transit_to_next": "5-minute stroll to evening dining avenue"
+            },
+            {
+              "slot_type": "Evening Dining & Entertainment",
+              "time": "18:30 - 22:00",
+              "title": "Sunset Dinner & Nightlife at Midtown",
+              "description": "Dine with panoramic views or lively terrace seating. Conclude with evening dessert, ambient music, or a relaxing stroll beneath illuminated city architecture.",
+              "location": "Midtown Promenade",
+              "cost_usd": 25.3,
+              "cost_local": 25.3,
+              "transit_to_next": "Direct return to hotel via local metro or taxi"
+            }
+          ],
+          "day_total_usd": 62.7,
+          "day_total_local": 62.7,
+          "cumulative_total_usd": 62.7,
+          "cumulative_total_local": 62.7
+        },
+        {
+          "day_number": 2,
+          "date_label": "Day 2 • Lower Manhattan",
+          "cluster_name": "Lower Manhattan & Financial District",
+          "cluster_rationale": "All 4 attractions are situated within Lower Manhattan & Financial District. Walking radius is under 1.8 km, eliminating cross-city transit fatigue.",
+          "daily_transit_tip": "Pedestrian-friendly day! Use metro/tram to arrive in Lower Manhattan; thereafter all stops are walking distance.",
+          "lat": 40.7128,
+          "lng": -73.988,
+          "slots": [
+            {
+              "slot_type": "Morning Sightseeing",
+              "time": "09:00 - 12:30",
+              "title": "Explore Lower Manhattan & Art & Architecture",
+              "description": "Start the day at the iconic heart of Lower Manhattan & Financial District. Wander through peaceful morning streets, avoiding tourist rushes while soaking in one world trade, wall st & brooklyn bridge walk.",
+              "location": "Lower Manhattan Center",
+              "cost_usd": 12.0,
+              "cost_local": 12.0,
+              "transit_to_next": "5 to 8-minute scenic walk to lunch quarter"
+            },
+            {
+              "slot_type": "Lunch Recommendation",
+              "time": "12:30 - 14:00",
+              "title": "Artisanal Lunch in Financial District",
+              "description": "Relish authentic local flavors and seasonal specialties at a beloved neighborhood bistro renowned for farm-fresh ingredients and vibrant atmosphere.",
+              "location": "Financial District Food Alley",
+              "cost_usd": 14.7,
+              "cost_local": 14.7,
+              "transit_to_next": "Short 10-minute stroll across the plaza"
+            },
+            {
+              "slot_type": "Afternoon Leisure & Culture",
+              "time": "14:00 - 17:30",
+              "title": "Immersion: One World Trade",
+              "description": "Curated afternoon visit clustered in the same district to prevent transit fatigue. Delve into curated collections, picturesque courtyards, and local artisan shops.",
+              "location": "Lower Manhattan & Financial District Cultural Pavilion",
+              "cost_usd": 10.7,
+              "cost_local": 10.7,
+              "transit_to_next": "5-minute stroll to evening dining avenue"
+            },
+            {
+              "slot_type": "Evening Dining & Entertainment",
+              "time": "18:30 - 22:00",
+              "title": "Sunset Dinner & Nightlife at Lower Manhattan",
+              "description": "Dine with panoramic views or lively terrace seating. Conclude with evening dessert, ambient music, or a relaxing stroll beneath illuminated city architecture.",
+              "location": "Lower Manhattan Promenade",
+              "cost_usd": 25.3,
+              "cost_local": 25.3,
+              "transit_to_next": "Direct return to hotel via local metro or taxi"
+            }
+          ],
+          "day_total_usd": 62.7,
+          "day_total_local": 62.7,
+          "cumulative_total_usd": 125.4,
+          "cumulative_total_local": 125.4
+        },
+        {
+          "day_number": 3,
+          "date_label": "Day 3 • Central Park",
+          "cluster_name": "Central Park & Museum Mile",
+          "cluster_rationale": "All 4 attractions are situated within Central Park & Museum Mile. Walking radius is under 1.8 km, eliminating cross-city transit fatigue.",
+          "daily_transit_tip": "Pedestrian-friendly day! Use metro/tram to arrive in Central Park; thereafter all stops are walking distance.",
+          "lat": 40.7278,
+          "lng": -74.024,
+          "slots": [
+            {
+              "slot_type": "Morning Sightseeing",
+              "time": "09:00 - 12:30",
+              "title": "Explore Central Park & History & Heritage",
+              "description": "Start the day at the iconic heart of Central Park & Museum Mile. Wander through peaceful morning streets, avoiding tourist rushes while soaking in metropolitan museum & strawberry fields.",
+              "location": "Central Park Center",
+              "cost_usd": 12.0,
+              "cost_local": 12.0,
+              "transit_to_next": "5 to 8-minute scenic walk to lunch quarter"
+            },
+            {
+              "slot_type": "Lunch Recommendation",
+              "time": "12:30 - 14:00",
+              "title": "Artisanal Lunch in Museum Mile",
+              "description": "Relish authentic local flavors and seasonal specialties at a beloved neighborhood bistro renowned for farm-fresh ingredients and vibrant atmosphere.",
+              "location": "Museum Mile Food Alley",
+              "cost_usd": 14.7,
+              "cost_local": 14.7,
+              "transit_to_next": "Short 10-minute stroll across the plaza"
+            },
+            {
+              "slot_type": "Afternoon Leisure & Culture",
+              "time": "14:00 - 17:30",
+              "title": "Immersion: Metropolitan Museum & Strawberry Fields",
+              "description": "Curated afternoon visit clustered in the same district to prevent transit fatigue. Delve into curated collections, picturesque courtyards, and local artisan shops.",
+              "location": "Central Park & Museum Mile Cultural Pavilion",
+              "cost_usd": 10.7,
+              "cost_local": 10.7,
+              "transit_to_next": "5-minute stroll to evening dining avenue"
+            },
+            {
+              "slot_type": "Evening Dining & Entertainment",
+              "time": "18:30 - 22:00",
+              "title": "Sunset Dinner & Nightlife at Central Park",
+              "description": "Dine with panoramic views or lively terrace seating. Conclude with evening dessert, ambient music, or a relaxing stroll beneath illuminated city architecture.",
+              "location": "Central Park Promenade",
+              "cost_usd": 25.3,
+              "cost_local": 25.3,
+              "transit_to_next": "Direct return to hotel via local metro or taxi"
+            }
+          ],
+          "day_total_usd": 62.7,
+          "day_total_local": 62.7,
+          "cumulative_total_usd": 188.1,
+          "cumulative_total_local": 188.1
+        },
+        {
+          "day_number": 4,
+          "date_label": "Day 4 • Greenwich Village",
+          "cluster_name": "Greenwich Village & Chelsea High Line",
+          "cluster_rationale": "All 4 attractions are situated within Greenwich Village & Chelsea High Line. Walking radius is under 1.8 km, eliminating cross-city transit fatigue.",
+          "daily_transit_tip": "Pedestrian-friendly day! Use metro/tram to arrive in Greenwich Village; thereafter all stops are walking distance.",
+          "lat": 40.6978,
+          "lng": -73.988,
+          "slots": [
+            {
+              "slot_type": "Morning Sightseeing",
+              "time": "09:00 - 12:30",
+              "title": "Explore Greenwich Village & Photography Hotspots",
+              "description": "Start the day at the iconic heart of Greenwich Village & Chelsea High Line. Wander through peaceful morning streets, avoiding tourist rushes while soaking in art galleries, jazz clubs & chelsea market.",
+              "location": "Greenwich Village Center",
+              "cost_usd": 12.0,
+              "cost_local": 12.0,
+              "transit_to_next": "5 to 8-minute scenic walk to lunch quarter"
+            },
+            {
+              "slot_type": "Lunch Recommendation",
+              "time": "12:30 - 14:00",
+              "title": "Artisanal Lunch in Chelsea High Line",
+              "description": "Relish authentic local flavors and seasonal specialties at a beloved neighborhood bistro renowned for farm-fresh ingredients and vibrant atmosphere.",
+              "location": "Chelsea High Line Food Alley",
+              "cost_usd": 14.7,
+              "cost_local": 14.7,
+              "transit_to_next": "Short 10-minute stroll across the plaza"
+            },
+            {
+              "slot_type": "Afternoon Leisure & Culture",
+              "time": "14:00 - 17:30",
+              "title": "Immersion: Art Galleries",
+              "description": "Curated afternoon visit clustered in the same district to prevent transit fatigue. Delve into curated collections, picturesque courtyards, and local artisan shops.",
+              "location": "Greenwich Village & Chelsea High Line Cultural Pavilion",
+              "cost_usd": 10.7,
+              "cost_local": 10.7,
+              "transit_to_next": "5-minute stroll to evening dining avenue"
+            },
+            {
+              "slot_type": "Evening Dining & Entertainment",
+              "time": "18:30 - 22:00",
+              "title": "Sunset Dinner & Nightlife at Greenwich Village",
+              "description": "Dine with panoramic views or lively terrace seating. Conclude with evening dessert, ambient music, or a relaxing stroll beneath illuminated city architecture.",
+              "location": "Greenwich Village Promenade",
+              "cost_usd": 25.3,
+              "cost_local": 25.3,
+              "transit_to_next": "Direct return to hotel via local metro or taxi"
+            }
+          ],
+          "day_total_usd": 62.7,
+          "day_total_local": 62.7,
+          "cumulative_total_usd": 250.8,
+          "cumulative_total_local": 250.8
+        },
+        {
+          "day_number": 5,
+          "date_label": "Day 5 • DUMBO",
+          "cluster_name": "DUMBO & Williamsburg Brooklyn",
+          "cluster_rationale": "All 4 attractions are situated within DUMBO & Williamsburg Brooklyn. Walking radius is under 1.8 km, eliminating cross-city transit fatigue.",
+          "daily_transit_tip": "Pedestrian-friendly day! Use metro/tram to arrive in DUMBO; thereafter all stops are walking distance.",
+          "lat": 40.7128,
+          "lng": -74.024,
+          "slots": [
+            {
+              "slot_type": "Morning Sightseeing",
+              "time": "09:00 - 12:30",
+              "title": "Explore DUMBO & Street Food & Gastronomy",
+              "description": "Start the day at the iconic heart of DUMBO & Williamsburg Brooklyn. Wander through peaceful morning streets, avoiding tourist rushes while soaking in skyline views, vintage markets & craft breweries.",
+              "location": "DUMBO Center",
+              "cost_usd": 12.0,
+              "cost_local": 12.0,
+              "transit_to_next": "5 to 8-minute scenic walk to lunch quarter"
+            },
+            {
+              "slot_type": "Lunch Recommendation",
+              "time": "12:30 - 14:00",
+              "title": "Artisanal Lunch in Williamsburg Brooklyn",
+              "description": "Relish authentic local flavors and seasonal specialties at a beloved neighborhood bistro renowned for farm-fresh ingredients and vibrant atmosphere.",
+              "location": "Williamsburg Brooklyn Food Alley",
+              "cost_usd": 14.7,
+              "cost_local": 14.7,
+              "transit_to_next": "Short 10-minute stroll across the plaza"
+            },
+            {
+              "slot_type": "Afternoon Leisure & Culture",
+              "time": "14:00 - 17:30",
+              "title": "Immersion: Skyline Views",
+              "description": "Curated afternoon visit clustered in the same district to prevent transit fatigue. Delve into curated collections, picturesque courtyards, and local artisan shops.",
+              "location": "DUMBO & Williamsburg Brooklyn Cultural Pavilion",
+              "cost_usd": 10.7,
+              "cost_local": 10.7,
+              "transit_to_next": "5-minute stroll to evening dining avenue"
+            },
+            {
+              "slot_type": "Evening Dining & Entertainment",
+              "time": "18:30 - 22:00",
+              "title": "Sunset Dinner & Nightlife at DUMBO",
+              "description": "Dine with panoramic views or lively terrace seating. Conclude with evening dessert, ambient music, or a relaxing stroll beneath illuminated city architecture.",
+              "location": "DUMBO Promenade",
+              "cost_usd": 25.3,
+              "cost_local": 25.3,
+              "transit_to_next": "Direct return to hotel via local metro or taxi"
+            }
+          ],
+          "day_total_usd": 62.7,
+          "day_total_local": 62.7,
+          "cumulative_total_usd": 313.5,
+          "cumulative_total_local": 313.5
+        }
+      ]
+    }
+  }
+]
